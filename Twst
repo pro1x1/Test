@@ -2,7 +2,7 @@
 
 game:GetService("StarterGui"):SetCore("SendNotification",{
     Title = "تم تشغيل السكربت";
-    Text = "𝐓𝐇𝐈𝐒 𝐒𝐂𝐑𝐈𝐏 𝐌𝐀𝐒𝐄 𝐁𝐘 ⛓️𝐍𝐀𝐕𝐊 𝐓𝐄𝐀𝐌";
+    Text = "THIS SCRIP BY: NAVK TEAM✨";
     Duration = 20;
 })
 
